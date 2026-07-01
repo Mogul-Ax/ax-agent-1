@@ -1,6 +1,5 @@
-<center>
-< img src="fig/a8d070f0-98e5-4043-ae9c-6ecb17e97f48.png" width="50%"> 
-</center>
+![](fig/a8d070f0-98e5-4043-ae9c-6ecb17e97f48.png)
+
 # ax-ai-agent
 
 This is a [Next.js](https://nextjs.org) project .
